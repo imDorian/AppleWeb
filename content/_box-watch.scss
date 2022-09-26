@@ -1,0 +1,64 @@
+.box-watch{
+    
+        height: auto;
+        width: 100%;
+        background-color: white;
+        color: black;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        margin-bottom: 10px;
+        padding-top: 30px;
+
+        div{
+            img{
+                width: 30px;
+            }
+        }
+
+        h1{
+            margin-bottom: 0;
+        }
+
+
+        .watch-title{
+            
+            display: flex;
+            align-items: baseline;
+            justify-content: center;
+            margin-bottom: 0;
+            font-size: 12px;
+            flex-wrap: wrap;
+
+           
+        }
+        img{
+            width: 100%;
+        }
+            
+            
+            .subwatch{
+                font-size: 10px;
+                letter-spacing: 1px ;
+                font-weight: 750;
+            }
+        
+        
+       
+        
+    }
+.background_black{
+    background-color: black;
+    color:white
+}
+
+.orange{
+    color: orange;
+}
+.red{
+    color:#a61419;
+   
+}
+.se{
+   color: #c53e40
+}

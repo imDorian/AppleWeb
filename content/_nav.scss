@@ -1,0 +1,24 @@
+header{
+    display: flex;
+    background-color: black;
+    width: 100%;
+    position: fixed;
+
+    nav{
+        display: flex;
+        width: 100%;
+        padding: 10px;
+        ul{
+            padding: 0;
+            display: flex;
+            width: 100%;
+            justify-content: space-between;
+            margin:0px;
+        
+            img{
+                width: 20px;
+            }
+        }
+    }
+
+}
